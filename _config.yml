@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 
 title: [NYU Labeling task on Hybrid]
 description: [FAQ & Instructions]
-show_downloads: ["false"]
+show_downloads: [false]
