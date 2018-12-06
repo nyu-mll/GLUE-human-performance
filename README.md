@@ -1,17 +1,15 @@
 # FAQ
 
-# BOOPTY
-
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 
 ### Should one label be more common than the others?
-Ideally, no. We already have labels for all of these pairs, and we have an equal number of pairs with each of the three types of label, so if you find yourself assigning one of the three labels most of the time, try to reconsider how you are evaluating the captions. However, your responses don't need to 
+Ideally, no. We already have labels for all of these pairs, and we have an equal number of pairs with each of the three types of label, so if you find yourself assigning one of the three labels most of the time, try to reconsider how you are evaluating the prompts. However, your responses don't need to balanced across the labels.
 
 ### Will you reject all of my work?
-No. Unless it's clear to us that you are assigning labels across many HITs without even considering the captions, we won't reject any of your work.
+No. Unless it's clear to us that you are assigning labels across many HITs without even considering the prompts, we won't reject any of your work.
 
-### Where do these captions come from?
-Each pair of captions was written by two different people as part of a different Hybrid task, and then labels were validated in another Hybrid task.
+### Where do these sentences come from?
+Each pair of sentences was written by two different people as part of a different Hybrid task, and then labels were validated in another Hybrid task.
 
 ### When do you approve HITs?
 We are grad students buried in work, so we can't promise to look at the data directly any more often than once a day.
