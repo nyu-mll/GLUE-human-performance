@@ -1,6 +1,4 @@
-# FAQ & Instructions
-
-## boop2
+# FAQ
 
 Thanks for doing our HITs! We've been loving the work we've gotten so far, and with your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 
