@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Human Performance on GLUE
 
-You can use the [editor on GitHub](https://github.com/woollysocks/GLUE-human-performance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This data collection project is designed to get a good estimate of human performance on the General Language Understanding Evaluation (GLUE) tasks. The tasks covered by this data collection effort are,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ Acceptability judgement with The Corpus of Linguistic Acceptability (CoLA)
++ Sentiment classification with Stanford Sentiment Treebank (SST)
++ Paraphrase equivalence with Microsoft Research Paraphrase Corpus (MRPC)
++ Sentiment classification with Semantic Textual Similarity Benchmark
++ Question equivalence with Quora Question Pairs
++ Natural language inference, or textual entailment, with Multi-genre Natrual Language Inference (MNLI), matched and mismatched datasets.
++ Question answering with Question NLI (an adaptation of SQuAD)
++ Natural language inference, or textual entailment, with Recognizing Textual Entailment
++ Commonsense reasoning with Winograd NLI (adaptated from Winograd schema)
 
-### Markdown
+[//]: # (To-Do: Add links to all papers and datasets!)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woollysocks/GLUE-human-performance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# FAQ & Instructions: NYU Labeling task on Hybrid
