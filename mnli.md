@@ -1,7 +1,6 @@
 # MNLI Instructions
 
 The New York University Center for Data Science is collecting your answers for use in research on computer understanding of English. Thank you for your help!
-
 <br/>
 
 We will present you with a prompt taken from a letter someone wrote. Your job is to figure out, based on this correct prompt (the first prompt, on top), if another prompt (the second prompt, on bottom) is also correct:
