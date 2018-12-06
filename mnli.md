@@ -26,4 +26,4 @@ We will present you with a prompt taken from a letter someone wrote. <span style
 	> > <span style="color:rgb(71, 71, 209)"> _"Central California Legal Services' executive director decided not to pursue a lawsuit against Alpaugh Irrigation."_ </span>
 
 
-You do not have to worry about whether the writing style of the line is maintained in the prompt.
+You do not have to worry about whether the writing style is maintained across the two prompts.
