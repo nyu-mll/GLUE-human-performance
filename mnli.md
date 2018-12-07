@@ -12,7 +12,7 @@ We will present you with a prompt taken from a letter someone wrote. <span style
 	> > <span style="color:rgb(71, 71, 209)"> _"Many people thought the legislation was a model for the country."_ </span>
 
 
-+ Choose maybe correct if the prompt on the bottom could describe an event or situation that fit the first prompt, but could also describe sentences that don't fit the first prompt. Example: 
++ Choose maybe correct if the prompt on the bottom could describe an event or situation that fit the first prompt, but could also describe situations that don't fit the first prompt. Example: 
 
 	> > <span style="color:rgb(115, 153, 0)"> _"The program has helped victims in 90 court cases, and 150 legal counseling sessions have been held there."_ </span>
 

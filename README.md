@@ -15,7 +15,7 @@ Each pair of sentences was written by two different people as part of a differen
 We are grad students buried in work, so we can't promise to look at the data directly any more often than once a day.
 
 ### When should I fill out the 'problems' field?
-You should fill this out if you can't complete the HIT, and not otherwise. This should be either if the caption is total nonsense (you can't even guess what it's describing), or if HIT interface is partially broken (no caption, for example). If there is a typo in a caption, but you think you know what it means anyway, please don't report it. Never put anything in this field if there isn't a problem.
+You should fill this out if you can't complete the HIT, and not otherwise. This could be if HIT interface is partially broken (an empty page, for example). If there is a typo in a sentence, but you think you know what it means anyway, please don't report it. Never put anything in this field if there isn't a problem.
 
 ### Who are you?
 We are busy graduate students with the Bowman Group, a subgroup of the ML2 group at New York University Center for Data Science. We are also affiliated with the NYU Departments of Data Science, Computer Science, and Linguistics.
