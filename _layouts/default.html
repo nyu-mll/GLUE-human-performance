@@ -33,13 +33,13 @@
             // only run this when the page finishes loading
             $(document).ready(function () {
                 // if cat.html exists in the url
-                if (window.location.href.indexOf('default.html') > -1) {
+                if (window.location.href.indexOf('mnli.html') > -1) {
                     // select the p by its id and hide it or - 
-                    $('#conditional').css('visibility', 'visible');
+                    $('#conditional').css('visibility', 'hidden');
                 }
                 else {
                     // show it
-                    $('#conditional').css('visibility', 'hidden');
+                    $('#conditional').css('visibility', 'visible');
                 }
             });
         </script>
