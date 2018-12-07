@@ -28,4 +28,4 @@ We will present you with a prompt taken from a letter someone wrote. <span style
 
 You do not have to worry about whether the writing style is maintained across the two prompts.
 
-More questions? See the [FAQ](https://nyu-mll.github.io/GLUE-human-performance/).
+More questions? See the [FAQ](https://nyu-mll.github.io/GLUE-human-performance/mnli-faq).
