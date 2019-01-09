@@ -3,7 +3,7 @@
 The New York University Center for Data Science is collecting your answers for use in research on computer understanding of English. Thank you for your help!
 <br/>
 
-We will present you with a sentence that someone wrote, this is the first prompt. <span style="color:rgb(153, 0, 0)">Your job is to figure out, based on this correct prompt (the first prompt, on top), if another prompt (the second prompt, on bottom) is also correct</span>:
+We will present you with a sentence that someone wrote, this is the first prompt. <span style="color:rgb(153, 0, 0)">Your job is to figure out, based on this correct prompt (the first prompt, on top), if another prompt (the second prompt, on bottom) is also true</span>:
 
 + Choose **correct** if the event or situation described by the first prompt on top also clearly implies the prompt on the bottom. Example:
 

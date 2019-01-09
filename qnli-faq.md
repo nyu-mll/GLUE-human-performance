@@ -18,7 +18,7 @@ Ideally, no. We already have labels for all of these pairs, and we have an equal
 No. Unless it's clear to us that you are assigning labels across many HITs without even considering the prompts, we won't reject any of your work.
 
 ### Where do these question-answer pairs come from?
-The prompts/answers are sentences from Wikipedia articles and the questions were written by annotators in a previous data collection effort at Stanford University.
+Each pair was written by two different people as part of a previous data collection effort.
 
 ### When should I fill out the 'problems' field?
 You should fill this out if you can't complete the HIT, and not otherwise. This could be if HIT interface is partially broken (an empty page, for example). If there is a typo in a sentence, but you think you know what it means anyway, please don't report it. Never put anything in this field if there isn't a problem.

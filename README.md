@@ -6,5 +6,5 @@ This site has all the instructions and FAQs for NYU's data colleciton effort on 
 - MRPC: [instructions](), [FAQ]()
 - QQP: [instructions](https://nyu-mll.github.io/GLUE-human-performance/qqp), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/qqp-faq)
 - QNLI: [instructions](https://nyu-mll.github.io/GLUE-human-performance/qnli), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/qnli-faq)
-- RTE: [instructions](), [FAQ]()
+- RTE: [instructions](https://nyu-mll.github.io/GLUE-human-performance/rte), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/rte-faq)
 - WNLI: [instructions](https://nyu-mll.github.io/GLUE-human-performance/wnli), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/wnli-faq)
