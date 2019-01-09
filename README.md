@@ -7,4 +7,4 @@ This site has all the instructions and FAQs for NYU's data colleciton effort on 
 - [QQP]()
 - QNLI: [instructions](https://nyu-mll.github.io/GLUE-human-performance/qnli), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/qnli-faq)
 - [RTE]()
-- WNLI: [instrucitions](https://nyu-mll.github.io/GLUE-human-performance/wnli), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/wnli-faq)
+- WNLI: [instructions](https://nyu-mll.github.io/GLUE-human-performance/wnli), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/wnli-faq)
