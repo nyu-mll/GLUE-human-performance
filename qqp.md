@@ -7,9 +7,8 @@ We will present you with two question taken from an online forum. <span style="c
 
 + Choose **same** if both questions would answered in the same way. Examples:
 
-	> > <span style="color:rgb(115, 153, 0)"> _“What are the best tips for outlining/planning a novel?”_ </span>
-
-	> > <span style="color:rgb(71, 71, 209)"> _“How do I best outline my novel?”_ </span> 
+	> > <span style="color:rgb(115, 153, 0)"> _“What are the best tips for outlining/planning a novel?”_ </span><br>
+	<span style="color:rgb(71, 71, 209)"> _“How do I best outline my novel?”_ </span> 
 
 	<br>
 
