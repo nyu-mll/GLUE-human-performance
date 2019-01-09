@@ -11,8 +11,8 @@ Sometimes this task can be tricky and we want you to get a sense of what the tas
 ### Can I immediately start working on the main project after completing training?
 Unfortunately no, there is no automatic way for us to add you to our qualified list of workers. We go through the submitted HITs on the training task at least once a day and add worker IDs to the qualified list. Once your name is on the list, you will be notified thruugh Hyrbid and will be able to start working on the main project. 
 
-### Should one label be more common than the others?
-Ideally, no. We already have labels for all of these pairs, and we have an equal number of pairs with each of the three types of label, so if you find yourself assigning one of the three labels most of the time, try to reconsider how you are evaluating the prompts. However, your responses do not need to balanced across the labels.
+### Should one label be more common than the other?
+Ideally, no. We already have labels for all of these pairs, and we have an equal number of pairs for both labels, so if you find yourself assigning one of the labels most of the time, try to reconsider how you are evaluating the prompts. However, your responses do not need to balanced across the labels.
 
 ### Will you reject my work?
 No. Unless it's clear to us that you are assigning labels across many HITs without even considering the prompts, we won't reject any of your work.

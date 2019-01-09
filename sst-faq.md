@@ -1,6 +1,6 @@
-# RTE FAQ
+# SST FAQ
 
-Instructions for RTE can be found [here](https://nyu-mll.github.io/GLUE-human-performance/rte.html)!
+Instructions for SST can be found [here](https://nyu-mll.github.io/GLUE-human-performance/sst.html)!
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 
@@ -18,7 +18,7 @@ Ideally, no. We already have labels for all of these pairs, and we have an equal
 No. Unless it's clear to us that you are assigning labels across many HITs without even considering the prompts, we won't reject any of your work.
 
 ### Where do these sentences come from?
-Each pair of sentences was written by two different people as part of a previous data collection effort.
+Each sentences was written by a person as part of a previous data collection effort.
 
 ### When should I fill out the 'problems' field?
 You should fill this out if you can't complete the HIT, and not otherwise. This could be if HIT interface is partially broken (an empty page, for example). If there is a typo in a sentence, but you think you know what it means anyway, please don't report it. Never put anything in this field if there isn't a problem.
