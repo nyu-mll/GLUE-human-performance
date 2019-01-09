@@ -10,7 +10,8 @@ We will present you with two question taken from an online forum. <span style="c
 	> > <span style="color:rgb(115, 153, 0)"> _“What are the best tips for outlining/planning a novel?”_ </span>
 
 	> > <span style="color:rgb(71, 71, 209)"> _“How do I best outline my novel?”_ </span>
- 
+ 	
+ 	<br/>
 
 	> > <span style="color:rgb(115, 153, 0)"> “Is it possible to choose your dreams?”
 
@@ -22,6 +23,8 @@ We will present you with two question taken from an online forum. <span style="c
 	
 	> > <span style="color:rgb(71, 71, 209)"> _“Who is the best looking actor in Prison Break?”_ </span>
  
+ 	<br/>
+
 	> > <span style="color:rgb(115, 153, 0)"> _“If you're 15 years old and have an IQ of 136 is that normal?”_ </span>
 	
 	> > <span style="color:rgb(71, 71, 209)"> _“What is the normal IQ of a 15 year old?”_ </span>
