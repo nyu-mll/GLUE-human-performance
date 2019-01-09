@@ -2,8 +2,8 @@
 
 This site has all the instructions and FAQs for NYU's data colleciton effort on Hybrid. 
 - CoLA: [instructions](https://nyu-mll.github.io/GLUE-human-performance/cola), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/cola-faq)
-- SST: [instructions](), [FAQ]()
-- MRPC: [instructions](), [FAQ]()
+- SST: [instructions](https://nyu-mll.github.io/GLUE-human-performance/sst), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/sst-faq)
+- MRPC: [instructions](https://nyu-mll.github.io/GLUE-human-performance/mrpc), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/mrpc-faq)
 - STS-B: [instructions](), [FAQ]()
 - QQP: [instructions](https://nyu-mll.github.io/GLUE-human-performance/qqp), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/qqp-faq)
 - MNLI, matched and mismatched: [instructions](https://nyu-mll.github.io/GLUE-human-performance/mnli.html), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/mnli-faq.html)
