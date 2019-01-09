@@ -37,9 +37,9 @@ We will present you with two sentences. <span style="color:rgb(153, 0, 0)">Your 
 
 + Choose 0 if the two sentences are completely dissimilar. Example:
 
-	> > <span style="color:rgb(115, 153, 0)"> _“The two sentences are completely dissimilar.”_ </span>
+	> > <span style="color:rgb(115, 153, 0)"> _“The black dog is running through the snow.”_ </span>
 
-	> > <span style="color:rgb(71, 71, 209)"> _“The black dog is running through the snow.”_ </span>
+	> > <span style="color:rgb(71, 71, 209)"> _A race car driver is driving his car through the mud._</span>
  
 You do not have to worry about whether the writing style is maintained across the two sentences.
 
