@@ -17,11 +17,11 @@ Ideally, no. We already have labels for all of these pairs, and we have an equal
 ### Will you reject my work?
 No. Unless it's clear to us that you are assigning labels across many HITs without even considering the prompts, we won't reject any of your work.
 
-### Where do these question-answer pairs come from?
-The prompts/answers are sentences from Wikipedia articles and the questions were written by annotators in a previous data collection effort at Stanford University.
+### Where do these sentence pairs come from?
+These pairs are taken from the [Winograd Schema Challenge](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html). These sentence pairs were constructed by human experts specifically to confuse statistical methods and machines.
 
 ### When should I fill out the 'problems' field?
-You should fill this out if you can't complete the HIT, and not otherwise. This could be if HIT interface is partially broken (an empty page, for example). If there is a typo in a sentence, but you think you know what it means anyway, please don't report it. Never put anything in this field if there isn't a problem.
+You should fill this out if you can't complete the HIT, and not otherwise. This could be if the HIT interface is partially broken (an empty page, for example). If there is a typo in a sentence, but you think you know what it means anyway, please don't report it. Never put anything in this field if there isn't a problem.
 
 ### Who are you?
 We are busy graduate students with the Bowman Group, a subgroup of the ML<sup>2</sup> group at New York University Center for Data Science. We are also affiliated with the NYU Departments of Data Science, Computer Science, and Linguistics.

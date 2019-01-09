@@ -5,13 +5,13 @@ The New York University Center for Data Science is collecting your answers for u
 
 We will present you with a question and a prompt. <span style="color:rgb(153, 0, 0)">Your job is to figure out if the prompt (on the bottom) contains an answer to the question (on top)</span>: 
 
-+ Choose **Answered** if the prompt on the bottom contains information that offers an answer to the question on top. Example:
++ Choose **answered** if the prompt on the bottom contains information that offers an answer to the question on top. Example:
 
 	> > <span style="color:rgb(115, 153, 0)"> _“What would a teacher do for someone who is cocky?”_ </span>
 
 	> > <span style="color:rgb(115, 153, 0)"> _“The function of the teacher is to pressure the lazy, inspire the bored, deflate the cocky, encourage the timid, detect and correct individual flaws, and broaden the viewpoint of all.”_  </span>
- 
-+ Choose **Not answered** if the prompt on the bottom does not contain any information that answers the question on top. Example:
+
++ Choose **not answered** if the prompt on the bottom does not contain any information that answers the question on top. Example:
 	
 	> > <span style="color:rgb(115, 153, 0)"> _"How many people were lost in Algiers during 1620-21?”_ </span>
 
