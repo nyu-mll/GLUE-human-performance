@@ -1,6 +1,6 @@
 # FAQ
 
-Instructions for the WNLI can be found [here](https://nyu-mll.github.io/GLUE-human-performance/wnli.html)!
+Instructions for the QQP can be found [here](https://nyu-mll.github.io/GLUE-human-performance/qqp.html)!
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 

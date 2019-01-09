@@ -9,13 +9,13 @@ We will present you with a sentence that someone wrote, this is the first prompt
 
 	> > <span style="color:rgb(115, 153, 0)"> _“I put the cake away in the refrigerator. It has a lot of butter in it.”_ </span>
 
-	> > <span style="color:rgb(115, 153, 0)"> _“The cake has a lot of butter in it.”_ </span>
+	> > <span style="color:rgb(71, 71, 209)"> _“The cake has a lot of butter in it.”_ </span>
 
 + Choose **incorrect** if the event or situation described by the first prompt on top does not logically imply the prompt on the bottom. Example:
 
 	> > <span style="color:rgb(115, 153, 0)"> _“The large ball crashed right through the table because it was made of styrofoam.”_ </span>
 	
-	> > <span style="color:rgb(115, 153, 0)"> _“The large ball was made of styrofoam.”_ </span>
+	> > <span style="color:rgb(71, 71, 209)"> _“The large ball was made of styrofoam.”_ </span>
 
 You do not have to worry about whether the writing style is maintained between the questions and the prompt.
 
