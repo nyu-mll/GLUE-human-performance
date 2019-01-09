@@ -1,10 +1,10 @@
 # Instructions & FAQ
 
 This site has all the instructions and FAQs for NYU's data colleciton effort on Hybrid. 
-- [MNLI, matched and mismatched](https://nyu-mll.github.io/GLUE-human-performance/mnli.html)
+- MNLI, matched and mismatched: [instructions](https://nyu-mll.github.io/GLUE-human-performance/mnli.html), [FAQ](https://nyu-mll.github.io/GLUE-human-performance/mnli-faq.html)
 - [CoLA]()
 - [MRPC]()
 - [QQP]()
-- [QNLI]()
+- [QNLI](https://nyu-mll.github.io/GLUE-human-performance/qnli)
 - [RTE]()
 - [WNLI]()
