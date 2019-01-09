@@ -1,6 +1,6 @@
 # CoLA FAQ
 
-Instructions for the CoLA can be found [here](https://nyu-mll.github.io/GLUE-human-performance/cola.html)!
+Instructions for CoLA can be found [here](https://nyu-mll.github.io/GLUE-human-performance/cola.html)!
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 

@@ -1,6 +1,6 @@
-# FAQ
+# RTE FAQ
 
-Instructions for the RTE can be found [here](https://nyu-mll.github.io/GLUE-human-performance/rte.html)!
+Instructions for RTE can be found [here](https://nyu-mll.github.io/GLUE-human-performance/rte.html)!
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 

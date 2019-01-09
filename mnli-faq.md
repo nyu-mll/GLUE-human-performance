@@ -1,6 +1,6 @@
-# FAQ
+# MNLI FAQ
 
-Instructions for the MNLI can be found [here](https://nyu-mll.github.io/GLUE-human-performance/mnli.html)!
+Instructions for MNLI can be found [here](https://nyu-mll.github.io/GLUE-human-performance/mnli.html)!
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 

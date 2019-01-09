@@ -1,6 +1,6 @@
-# FAQ
+# QNLI FAQ
 
-Instructions for the QNLI can be found [here](https://nyu-mll.github.io/GLUE-human-performance/qnli.html)!
+Instructions for QNLI can be found [here](https://nyu-mll.github.io/GLUE-human-performance/qnli.html)!
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 
