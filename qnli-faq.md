@@ -1,6 +1,6 @@
 # FAQ
 
-Instructions for the MNLI can be found [here](https://nyu-mll.github.io/GLUE-human-performance/mnli.html)!
+Instructions for the QNLI can be found [here](https://nyu-mll.github.io/GLUE-human-performance/qnli.html)!
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 
@@ -17,8 +17,8 @@ Ideally, no. We already have labels for all of these pairs, and we have an equal
 ### Will you reject my work?
 No. Unless it's clear to us that you are assigning labels across many HITs without even considering the prompts, we won't reject any of your work.
 
-### Where do these sentences come from?
-Each pair of sentences was written by two different people as part of a different Hybrid task, and then labels were validated in another Hybrid task.
+### Where do these question-answer pairs come from?
+These pairs were taken from Quora. The questions and answers were written by Quora users.
 
 ### When should I fill out the 'problems' field?
 You should fill this out if you can't complete the HIT, and not otherwise. This could be if HIT interface is partially broken (an empty page, for example). If there is a typo in a sentence, but you think you know what it means anyway, please don't report it. Never put anything in this field if there isn't a problem.
